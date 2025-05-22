@@ -79,11 +79,3 @@ The React app will start on port 3000 and automatically open in your browser.
 2. User data is transformed and displayed in the table
 3. Live calculations for days since password change and last access
 4. Client-side filtering by MFA status
-
-## Future Improvements
-
-- Add sorting functionality
-- Implement pagination for larger datasets
-- Add user creation/editing capabilities
-- Implement authentication and authorization
-- Add more advanced filtering options 
