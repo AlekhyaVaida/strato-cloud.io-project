@@ -79,3 +79,13 @@ The React app will start on port 3000 and automatically open in your browser.
 2. User data is transformed and displayed in the table
 3. Live calculations for days since password change and last access
 4. Client-side filtering by MFA status
+
+### Screenshots of the Application
+
+<img width="1511" alt="image" src="https://github.com/user-attachments/assets/69cd6544-fa97-4886-9dc3-1520a5d58d52" />
+Filtering with MFA
+<img width="1497" alt="image" src="https://github.com/user-attachments/assets/05dfea0b-b698-4a46-9ce8-ed15fd2c72e7" />
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/16d55377-13e8-410d-879d-48175c91230b" />
+
+
+
